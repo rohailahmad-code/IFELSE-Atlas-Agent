@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Python virtual environments
+.venv/
+venv/
+backend/.venv/
+
+# Environment variables
+.env
+.env.local
+
